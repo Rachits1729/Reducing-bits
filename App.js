@@ -51,10 +51,10 @@ function App() {
             <h2>Huffman Encoding</h2>
             <div className="logo-name">
                
-                <a href="https://github.com/sumit2002agarwal/Reduce-Your-Bits" target="_blank">
+                <a href="https://github.com/Rachits1729/Reducing-bits" target="_blank">
                     <img className="git-light" src="gitlogo.png" alt="logo" />
                 </a>
-                <h3>Developed by:- Sumit Agarwal</h3>
+                <h3>Developed by:- Rachit Soni</h3>
             </div>
         </div>
             <div className='section split-pane'>
