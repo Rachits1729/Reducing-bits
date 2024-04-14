@@ -8,7 +8,7 @@ Reduce Your Bits is a web application built using React.js that demonstrates the
 - [Usage](#usage)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Live Demo](#live-demo)
+
 
 ## Introduction
 Huffman encoding is a lossless compression algorithm that assigns variable-length codes to characters based on their frequency of occurrence in a given dataset. By representing frequently occurring characters with shorter codes and less frequently occurring characters with longer codes, Huffman encoding achieves a more efficient representation of the data.
@@ -52,7 +52,6 @@ The Reduce Your Bits project utilizes the following technologies:
 - React Mermaid: A React component for rendering diagrams and flowcharts using the Mermaid syntax.
 
 
-## Live Demo
-You can try the live demo of the application [here](https://reduceyourbits.netlify.app/).
+
 
 
